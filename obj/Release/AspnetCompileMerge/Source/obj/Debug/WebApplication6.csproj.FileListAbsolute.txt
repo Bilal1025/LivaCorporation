@@ -1,0 +1,13 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\Bilal\Documents\Visual Studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb

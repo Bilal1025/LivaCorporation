@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="sqlCon1-Web.config Connection String" description="sqlCon1 Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:livacorporationsdbserver.database.windows.net,1433;Initial Catalog=livacorporations;Persist Security Info=False;User ID=Bilal;Password=QW[]14zx;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bilal\\Documents\\Visual\ Studio\ 2015\\Projects\\WebApplication6\\WebApplication6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlCon1']/@connectionString" />
+  </parameter>
+</parameters>
